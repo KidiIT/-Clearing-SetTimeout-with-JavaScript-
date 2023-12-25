@@ -37,7 +37,7 @@ In conclusion, I've decided to throw more light or points on the last part of my
 3. on the next step, I assign a constant element to the word to type variable and I passed an "IF STATEMENT" which is If the element is equal to e.target.value[i]. then 
  console.log(element) which is "HELLO WORLD THIS IS TYPING".
 
-Lastly, I want to use this opportunity to give y'all heads up on how happy and delighted I'm at the moment about the progress we've made on this repo. I won't have come this far without you guys. my warmest gratitude goes to each and everyone of you that been said, this repo is about 964+ views with 212 clones. I'm still surprised about the views and clones. I hope we achieve more on my next repo/project guys. see y'all soon. 
+Lastly, I want to use this opportunity to give y'all heads up on how happy and delighted I'm at the moment about the progress we've made on this repo. I won't have come this far without you guys. my warmest gratitude goes to each and everyone of you. that been said, this repo is about 964+ views with 212 clones. I'm still surprised about the views and clones. I hope we achieve more on my next repo/project guys. see y'all soon. 
 
 
 
