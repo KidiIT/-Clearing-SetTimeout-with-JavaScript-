@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
 #  Clearing SetTimeout with JavaScript 
 
 To begin with, I want to start by thanking everyone for the massive review and love on my works. your reviews do motivate me to develop and solve more tremendous works with JavaScript and some other awaiting programming languages. however, lets get to the wonderful knowledge and experience I'm going to share with the community today.
